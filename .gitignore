@@ -1,0 +1,14 @@
+# Entornos y archivos generados localmente.
+/.venv/
+**/.ipynb_checkpoints/
+**/target/
+**/out/
+**/.bloop/
+**/.bsp/
+**/.metals/
+**/.idea/
+**/project/metals.sbt
+**/project/project/
+
+# Material de consulta local, no incluido en la entrega.
+/source/
