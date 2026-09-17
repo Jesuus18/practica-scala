@@ -1,6 +1,6 @@
 # Práctica de programación básica con Scala
 
-En este repositorio reunimos las tres partes de la práctica de Scala. La Parte 1 está completada y las partes 2 y 3 están pendientes. La entrega final se realizará cuando estén terminadas las tres partes.
+Reunimos la configuración de los tres entornos de Scala y los quince ejercicios de programación en JupyterLab. Las partes 1 y 2 están revisadas; comprobamos la ejecución del notebook en orden y conservamos sus salidas, incluidos los dos errores deliberados. La Parte 3 queda pendiente de realizar.
 
 ## Autor
 
@@ -29,7 +29,10 @@ La guía incluye 40 capturas explicadas, guardadas en `images/` y numeradas en e
 
 ## Parte 2 — Programación con Scala en JupyterLab
 
-Pendiente de realizar.
+- [Guía y capturas de los ejercicios](parte2/README.md).
+- [Notebook con los quince ejercicios y sus salidas](workspace/parte2-scala.ipynb).
+
+Incluimos nueve capturas: comprobación del entorno, ejemplos de variables y recorridos, y el código y los resultados de las dos rondas del ejercicio 15. Conservamos los errores deliberados de los ejercicios 2 y 7.
 
 ## Parte 3 — Mini proyectos
 
