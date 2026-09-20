@@ -1,6 +1,6 @@
 # Práctica de programación básica con Scala
 
-Configuramos tres entornos de trabajo con Scala y resolvemos quince ejercicios de programación en JupyterLab.
+Configuramos tres entornos de trabajo con Scala, resolvemos quince ejercicios en JupyterLab y desarrollamos dos mini proyectos para analizar puntuaciones y notas.
 
 ## Autor
 
@@ -36,4 +36,6 @@ Incluimos nueve capturas: comprobación del entorno, ejemplos de variables y rec
 
 ## Parte 3 — Mini proyectos
 
-Pendiente de realizar.
+- [Guía de la parte 3](parte3/README.md).
+- [Torneo de Twenty-One en Visual Studio Code](workspace/torneo-twenty-one/README.md).
+- [Analizador de notas en IntelliJ IDEA](workspace/analizador-notas/README.md).
